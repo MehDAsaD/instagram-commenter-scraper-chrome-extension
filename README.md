@@ -1,4 +1,4 @@
-# Instagram Commenter Extractor Extension
+# Instagram Commenter Scraper Extension
 
 
 ## Overview
