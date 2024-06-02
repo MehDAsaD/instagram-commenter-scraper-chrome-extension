@@ -27,11 +27,11 @@ This Chrome extension allows you to extract Commenters from any Instagram page. 
 
 2. You will see that the Commenters are being extracted.
 
-   ![Screenshot 2](screenshot/extension–2.png)
+   ![Screenshot 2](screenshot/extension-2.png)
 
 3. The Commenter information is automatically saved in the Downloads folder on your system.
 
-   ![Screenshot 3](screenshot/extension–3.png)
+   ![Screenshot 3](screenshot/extension-3.png)
 
 
 
