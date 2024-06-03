@@ -43,11 +43,11 @@ This Chrome extension scrapes commenters from a target Instagram post. Simply op
 
 2. You will see that the commenters are being extracted.
 
-   ![Screenshot 2](screenshot/extension–2.png)
+   ![Screenshot 2](screenshot/extension-2.png)
 
 3. The commenters information is automatically saved in the Downloads folder on your system.
 
-   ![Screenshot 3](screenshot/extension–3.png)
+   ![Screenshot 3](screenshot/extension-3.png)
 
 
 #InstagramScraper #ChromeExtension #DataExtraction #WebScraping #JavaScript #InstagramCommenterScraperChromeExtension #InstagramCommenterScraperExtension #CommenterScraper
