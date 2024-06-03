@@ -3,7 +3,7 @@
 
 ## Overview
 
-This Chrome extension scrapes commenters from a target Instagram page. Simply open the commenters list, click the scrape button, and the extension will gather usernames and profile links, saving them in a `.txt` file in your download folder.
+This Chrome extension scrapes commenters from a target Instagram post. Simply open the post, click the scrape button, and the extension will gather usernames and profile links of the commenters, saving them in a .txt file in your download folder.
 
 
 ### Features
@@ -15,8 +15,8 @@ This Chrome extension scrapes commenters from a target Instagram page. Simply op
 
 ### How to Use
 1. Install the extension in Chrome.
-2. Go to the Instagram page you want to scrape.
-3. Open the commenters list.
+2. Go to the Instagram post you want to scrape.
+3. Open the list of commenters.
 4. Click the scrape button in the extension.
 5. Wait for the process to finish.
 6. Find the data in your download folder.
@@ -32,12 +32,12 @@ This Chrome extension scrapes commenters from a target Instagram page. Simply op
 ### Technical Details
 - Utilizes JavaScript for web scraping.
 - Provides real-time notifications.
-- Automatically scrolls to load all commenters.
+- Automatically scrolls to load all comments.
 - Saves data as a text file.
   
 
 ### Screenshots
-1. Click on the Instagram commenter Extractor extension icon to view the user interface in a pop-up. Click the "Click to Start Scraping" button to begin extraction.
+1. Click on the Instagram Commenter Extractor extension icon to view the user interface in a pop-up. Click the "Click to Start Scraping" button to begin extraction.
 
    ![Screenshot 1](screenshot/extension-1.png)
 
