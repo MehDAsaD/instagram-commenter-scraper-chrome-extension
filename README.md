@@ -16,7 +16,7 @@ This Chrome extension scrapes commenters from a target Instagram post. Simply op
 ### How to Use
 1. Install the extension in Chrome.
 2. Go to the Instagram post you want to scrape.
-3. Open the list of commenters.
+3. Open the list of comments.
 4. Click the scrape button in the extension.
 5. Wait for the process to finish.
 6. Find the data in your download folder.
