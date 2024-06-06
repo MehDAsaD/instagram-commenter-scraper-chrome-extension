@@ -50,4 +50,9 @@ This Chrome extension scrapes commenters from a target Instagram post. Simply op
    ![Screenshot 3](screenshot/extension-3.png)
 
 
+### Product Link
+
+This extension is part of the Virtual User Instagram Follower Booster Bot Package. For more information about this package, please visit [the product page on the Virtual User website.](https://www.v-user.com/en/side-products/instagram-robot)
+
+
 #InstagramScraper #ChromeExtension #DataExtraction #WebScraping #JavaScript #InstagramCommenterScraperChromeExtension #InstagramCommenterScraperExtension #CommenterScraper
